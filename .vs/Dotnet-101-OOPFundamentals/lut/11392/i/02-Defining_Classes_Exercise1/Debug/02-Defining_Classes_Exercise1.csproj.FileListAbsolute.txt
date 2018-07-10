@@ -1,0 +1,4 @@
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\b\02-Defining_Classes_Exercise1\bin\Debug\02-Defining_Classes_Exercise1.dll
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\02-Defining_Classes_Exercise1\Debug\02-Defining_Classes_Exercise1.csproj.CoreCompileInputs.cache
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\02-Defining_Classes_Exercise1\Debug\02-Defining_Classes_Exercise1.csproj.CopyComplete
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\02-Defining_Classes_Exercise1\Debug\02-Defining_Classes_Exercise1.dll

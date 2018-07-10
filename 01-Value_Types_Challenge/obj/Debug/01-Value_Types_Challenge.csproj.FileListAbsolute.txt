@@ -1,0 +1,7 @@
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01-Value_Types_Challenge\bin\Debug\01-Value_Types_Challenge.exe.config
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01-Value_Types_Challenge\bin\Debug\01-Value_Types_Challenge.exe
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01-Value_Types_Challenge\bin\Debug\01-Value_Types_Challenge.pdb
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01-Value_Types_Challenge\obj\Debug\01-Value_Types_Challenge.csprojAssemblyReference.cache
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01-Value_Types_Challenge\obj\Debug\01-Value_Types_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01-Value_Types_Challenge\obj\Debug\01-Value_Types_Challenge.exe
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\01-Value_Types_Challenge\obj\Debug\01-Value_Types_Challenge.pdb

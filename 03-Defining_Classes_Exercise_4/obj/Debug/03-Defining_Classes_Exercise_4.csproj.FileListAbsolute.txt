@@ -1,0 +1,6 @@
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_Exercise_4\bin\Debug\03-Defining_Classes_Exercise_4.dll
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_Exercise_4\bin\Debug\03-Defining_Classes_Exercise_4.pdb
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_Exercise_4\obj\Debug\03-Defining_Classes_Exercise_4.csprojAssemblyReference.cache
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_Exercise_4\obj\Debug\03-Defining_Classes_Exercise_4.csproj.CoreCompileInputs.cache
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_Exercise_4\obj\Debug\03-Defining_Classes_Exercise_4.dll
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_Exercise_4\obj\Debug\03-Defining_Classes_Exercise_4.pdb

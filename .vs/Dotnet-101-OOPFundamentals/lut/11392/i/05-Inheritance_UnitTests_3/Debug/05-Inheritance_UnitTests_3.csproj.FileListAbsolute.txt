@@ -1,0 +1,2 @@
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\05-Inheritance_UnitTests_3\Debug\05-Inheritance_UnitTests_3.csprojAssemblyReference.cache
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\.vs\Dotnet-101-OOPFundamentals\lut\0\i\05-Inheritance_UnitTests_3\Debug\05-Inheritance_UnitTests_3.csproj.CoreCompileInputs.cache

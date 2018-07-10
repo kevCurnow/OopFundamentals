@@ -1,0 +1,6 @@
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\04-Encapsulation_Exercise4\bin\Debug\04-Encapsulation_Exercise4.dll
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\04-Encapsulation_Exercise4\bin\Debug\04-Encapsulation_Exercise4.pdb
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\04-Encapsulation_Exercise4\obj\Debug\04-Encapsulation_Exercise4.csprojAssemblyReference.cache
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\04-Encapsulation_Exercise4\obj\Debug\04-Encapsulation_Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\04-Encapsulation_Exercise4\obj\Debug\04-Encapsulation_Exercise4.dll
+C:\Users\C208712\Documents\Visual Studio 2017\Projects\Dotnet-101-OOPFundamentals\04-Encapsulation_Exercise4\obj\Debug\04-Encapsulation_Exercise4.pdb

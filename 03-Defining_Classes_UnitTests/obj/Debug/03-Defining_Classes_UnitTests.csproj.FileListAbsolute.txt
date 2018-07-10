@@ -1,0 +1,16 @@
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\bin\Debug\03-Defining_Classes_UnitTests.dll
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\bin\Debug\03-Defining_Classes_UnitTests.pdb
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\bin\Debug\03-Defining_Classes_Exercise1.dll
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\bin\Debug\03-Defining_Classes_Exercise1.pdb
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\obj\Debug\03-Defining_Classes_UnitTests.csprojAssemblyReference.cache
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\obj\Debug\03-Defining_Classes_UnitTests.csproj.CoreCompileInputs.cache
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\obj\Debug\03-Defining_Classes_UnitTests.csproj.CopyComplete
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\obj\Debug\03-Defining_Classes_UnitTests.dll
+c:\users\c208712\documents\visual studio 2017\Projects\Dotnet-101-OOPFundamentals\03-Defining_Classes_UnitTests\obj\Debug\03-Defining_Classes_UnitTests.pdb
